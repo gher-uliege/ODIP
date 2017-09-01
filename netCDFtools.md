@@ -11,6 +11,10 @@
 |**Handling of anisotropy**|Ellipse defining a line of equal influence|Advection along isopycnals|No specific feature|Covariance modeling along each direction|Variable correlation length field, advection fields|Advection fields|Advection fields|Angle of preferred direction|No specific feature|Angle of preferred direction|No specific feature|
 |**Input file format**|Text, netCDF4 (OPeNDAP)|Text, ODV4, netCDF (OPeNDAP)|Text, GRIB, ESRI, netCDF (OPeNDAP),...|Text, ArcGIS, ESRI, raster, shapefile, netCDF4 (OPeNDAP),...|Text, ODV4|Text, netCDF4 (OPeNDAP)|Text, ODV4|Text, netCDF, AutoCAD DXF, Excel, SRTM HGT,...|Text, netCDF4 (OPeNDAP)|Text, Excel, .csv, netCDF4 (OPeNDAP)|NetCDF4 (OPeNDAP)|
 |**Output file format**|Text, netCDF4|Text, ODV4, netCDF|JPEG and PNG images|ESRI, ERDAS, .tiff, images, netCDF4|GHER binary, text, netCDF|Text, netCDF4|netCDF, .mat, .kml, images|Text (.grd), images, MIF/MID, SHP/DBF, .klm, .svg, netCDF,...|Text, images, netCDF4|Text, images, Excel, netCDF4|Images (.png, .tiff, .gif,...)|
+|**OGC compliance**|Yes ?|?|No ?|Yes|?|?|Yes|?|?|?|No ?|
+|**Sharing policy and/or license**|Profitable, proprietary|Free, open-source, license here: https://odv.awi.de/software/register/terms/|Free, open-source, GNU LGPL|Profitable, proprietary, license here: https://developers.arcgis.com/terms/| Free, open-source, GNU GPL|Free, open-source, GNU GPL|Free, open-source, GNU GPL|Profitable, proprietary, license here: http://www.goldensoft}\\\url{ware.com/terms-of-use | Free, open-source, license here: http://ferret.pmel.noaa.gov/Ferret/downloads/ferret-legal |Free, open-source, GNU GPL |Free, open-source, license here: https://gcmd.nasa.gov/records/NASA_GISS_Panoply.html |
+|**Operating system**|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|
+
 
 
 
