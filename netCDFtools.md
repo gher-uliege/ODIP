@@ -9,6 +9,8 @@
 |**Physical constraints**|No|Coastlines, advection along isopycnals|No|No|Coastlines, advection fields, ocean bottom|Coastlines, advection fields|Coastlines, advection fields|No|No|No|No|
 |**Maximum dimensions**|2D (3D if inverse distance)|2D|2D|2D|2D, pseudo-3D, pseudo-4D|nD|2D|2D|4D|2D|2D|
 |**Handling of anisotropy**|Ellipse defining a line of equal influence|Advection along isopycnals|No specific feature|Covariance modeling along each direction|Variable correlation length field, advection fields|Advection fields|Advection fields|Angle of preferred direction|No specific feature|Angle of preferred direction|No specific feature|
+|**Input file format**|Text, netCDF4 (OPeNDAP)|Text, ODV4, netCDF (OPeNDAP)|Text, GRIB, ESRI, netCDF (OPeNDAP),...|Text, ArcGIS, ESRI, raster, shapefile, netCDF4 (OPeNDAP),...|Text, ODV4|Text, netCDF4 (OPeNDAP)|Text, ODV4|Text, netCDF, AutoCAD DXF, Excel, SRTM HGT,...|Text, netCDF4 (OPeNDAP)|Text, Excel, .csv, netCDF4 (OPeNDAP)|NetCDF4 (OPeNDAP)|
+|**Output file format**|Text, netCDF4|Text, ODV4, netCDF|JPEG and PNG images|ESRI, ERDAS, .tiff, images, netCDF4|GHER binary, text, netCDF|Text, netCDF4|netCDF, .mat, .kml, images|Text (.grd), images, MIF/MID, SHP/DBF, .klm, .svg, netCDF,...|Text, images, netCDF4|Text, images, Excel, netCDF4|Images (.png, .tiff, .gif,...)|
 
 
 
