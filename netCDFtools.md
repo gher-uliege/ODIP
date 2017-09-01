@@ -14,7 +14,7 @@
 |**OGC compliance**|Yes ?|?|No ?|Yes|?|?|Yes|?|?|?|No ?|
 |**Sharing policy and/or license**|Profitable, proprietary|Free, open-source, license here: https://odv.awi.de/software/register/terms/|Free, open-source, GNU LGPL|Profitable, proprietary, license here: https://developers.arcgis.com/terms/| Free, open-source, GNU GPL|Free, open-source, GNU GPL|Free, open-source, GNU GPL|Profitable, proprietary, license here: http://www.goldensoft}\\\url{ware.com/terms-of-use | Free, open-source, license here: http://ferret.pmel.noaa.gov/Ferret/downloads/ferret-legal |Free, open-source, GNU GPL |Free, open-source, license here: https://gcmd.nasa.gov/records/NASA_GISS_Panoply.html |
 |**Operating system**|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|GNU/Linux, macOS, Windows|
-|**Comments**|GDL is a free open-source clone of IDL|ODV includes an implementaion of DIVA|||QGIS is a free open-source alternative|||Divand is a package on Octave/Matlab & Julia|Diva-on-web is a web application implementing basic DIVA features||||
+|**Comments**|GDL is a free open-source clone of IDL|ODV includes an implementaion of DIVA||QGIS is a free open-source alternative||Divand is a package on Octave/Matlab & Julia|Diva-on-web is a web application implementing basic DIVA features||||||
 
 
 
